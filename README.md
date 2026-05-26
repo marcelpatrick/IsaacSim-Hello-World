@@ -12,3 +12,4 @@ Install IsaacSim: https://github.com/marcelpatrick/IsaacSim-IsaacLab-installatio
 # Load Robot
 - On the upper bar, click on "window" > Examples > Robotics Examples. This will open a window on the bottom of the screen "Robotics Examples."
 - Select Import Robots > Carter URDF > Load
+- If you press play the robot will start moving forward if left and right wheels joints taget velocity > 0
