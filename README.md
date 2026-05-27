@@ -24,12 +24,13 @@ There are 2 ways to move the robot:
 
 ### Explaining the parameters
 
-**Angular Velocity vs Linear Velocity**: Linear velocity measures how fast something moves on a straight line (translational). Angular velocity measures how fast something spins (like the speed at which wheels spin), measured in radians per second (rad/s). 
-**Max Force**: Upper torque limit the drive can produce. Caps how hard the motor can push to hit its target. Too low = drive can't overcome inertia/friction. inf = unlimited
-**Target Position**: The angle you want the joint to rotate to and stop there once it reaches it. Used for arms, not wheels. 
-**Target Velocity**: The speed you want the joint to rotate (in rads/sec) and maintain it once it reaches it.  
-**Damping**: With how much "power" the motor pushes the wheels towards the desired target angular velocity. -> even if target velocity = 20, if damping = 0 the robot will not move
-**Stiffness**: How strongly it holds the target position. If stiff is low, joints are wobbly. User for arms, not wheels.
+- **Angular Velocity vs Linear Velocity**: Linear velocity measures how fast something moves on a straight line (translational). Angular velocity measures how fast something spins (like the speed at which wheels spin), measured in radians per second (rad/s). 
+- **Max Force**: Upper torque limit the drive can produce. Caps how hard the motor can push to hit its target. Too low = drive can't overcome inertia/friction. inf = unlimited
+- **Target Position**: The angle you want the joint to rotate to and stop there once it reaches it. Used for arms, not wheels. 
+- **Target Velocity**: The speed you want the joint to rotate (in rads/sec) and maintain it once it reaches it.  
+- **Damping**: With how much "power" the motor pushes the wheels towards the desired target angular velocity. -> even if target velocity = 20, if damping = 0 the robot will not move
+- **Stiffness**: How strongly it holds the target position. If stiff is low, joints are wobbly. User for arms, not wheels.
 
-
+## Other ways to move the robot
+<img width="1063" height="891" alt="image" src="https://github.com/user-attachments/assets/64232ebd-acd1-4258-b82e-69ddf6d0be8b" />
 
