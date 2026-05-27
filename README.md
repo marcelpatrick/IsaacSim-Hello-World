@@ -1,5 +1,5 @@
 # IsaacSim-Hello-World
-This tutorial will show you how to import a robot asset to IsaacSim
+This tutorial will guide you through the easiest project you can run on IsaacSim (a "hello world" project) to quickly give you a notion of what IsaacSim is and does. It will show you how to import a robot asset to IsaacSim
 
 # Pre-Requisites
 Install IsaacSim: https://github.com/marcelpatrick/IsaacSim-IsaacLab-installation-for-Windows-Easy-Tutorial
