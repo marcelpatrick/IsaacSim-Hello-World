@@ -32,5 +32,5 @@ There are 2 ways to move the robot:
 - **Stiffness**: How strongly it holds the target position. If stiff is low, joints are wobbly. User for arms, not wheels.
 
 ## Other ways to move the robot
-<img width="1063" height="891" alt="image" src="https://github.com/user-attachments/assets/64232ebd-acd1-4258-b82e-69ddf6d0be8b" />
+
 
