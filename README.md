@@ -24,7 +24,8 @@ There are 2 ways to move the robot:
 - On the IsaacSim UI, go to the right-hand panel "Stage" where the assets are listed and select: carter > joints > left_wheel and right_wheel (you can hols Ctrl and select both to change parameters on both at the same time.
 - In Property > Drive > Angular, change Target Velocity to 200 and Damping to 10000
 - Push play. You will see the carter robot moving forward.
-<img width="1113" height="421" alt="image" src="https://github.com/user-attachments/assets/5e7e8b26-7ad0-4431-a318-713567eec66b" />
+<img width="1130" height="1709" alt="image" src="https://github.com/user-attachments/assets/55fd9c77-7a9f-4488-bd16-72bf9a3d1f1d" />
+
 
 ### Explaining the parameters
 
